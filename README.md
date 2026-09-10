@@ -50,3 +50,8 @@ Contributions are welcome! Feel free to add useful public datasets, improve orga
 ## 📄 License
 
 This repository is available for educational and research purposes.
+
+# 👨‍💻 Author
+
+Himanshu Singh Yadav
+AI & ML Engineer
