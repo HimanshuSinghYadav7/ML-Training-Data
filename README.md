@@ -32,7 +32,7 @@ This repository is intended to:
 Clone the repository:
 
 ```bash
-git clone https://github.com/iamHimanshu-07/ML-Training-Data.git
+git clone https://github.com/HimanshuSinghYadav7/ML-Training-Data.git
 ```
 
 Navigate to the repository:
